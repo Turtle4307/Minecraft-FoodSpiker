@@ -1,0 +1,16 @@
+name: FoodSpiker
+version: '1.0'
+main: me.turtle.foodSpiker.FoodSpiker
+api-version: '1.21'
+load: STARTUP
+authors: [ Turtleboy4307 ]
+description: Spike the food plugin made by Turtleboy4307.
+commands:
+  spike:
+    description: Spike the food in your hand with spider eyes
+    usage: /spike
+    permission: foodspiker.use
+  reloadspike:
+    description: Reload the FoodSpiker config
+    usage: /reloadspike
+    permission: foodspiker.reload

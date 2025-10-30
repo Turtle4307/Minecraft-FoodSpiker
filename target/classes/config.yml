@@ -1,0 +1,5 @@
+# Duration of poison effect in seconds
+poison-duration: 10
+
+# How many spider eyes are needed to spike a food
+spider-eyes-required: 1
